@@ -40,3 +40,6 @@ http://www.runoob.com/w3cnote/git-guide.html
    $ git add readme.txt	
    $ git commit -m "New File to Studio Git"
    $ git push -u origin master	
+
+10. 从GitHub拉取代码
+    $ git clone git@github.com:Rains-2018/AndroidStudio.git	
