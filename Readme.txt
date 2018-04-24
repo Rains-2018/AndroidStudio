@@ -43,3 +43,6 @@ http://www.runoob.com/w3cnote/git-guide.html
 
 10. 从GitHub拉取代码
     $ git clone git@github.com:Rains-2018/AndroidStudio.git	
+
+11. 从GitHub上更新最新代码
+    $ git pull
